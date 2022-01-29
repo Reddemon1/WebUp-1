@@ -10,7 +10,7 @@
     
 </div>
 <div class="layer-4">
-    <button class="print">Ayo Print !</button>
+    <button class="print">Yuk Print!</button>
 </div>
 <div class="footer">
     <input type="hidden" name="" id="">
